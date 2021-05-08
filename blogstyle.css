@@ -1,3 +1,50 @@
 body{
     font-family: 'Lobster';
+    background-color: gainsboro;
+}
+.column{
+    height: 350px;
+    background-image: url(41.jpg);
+    background-size: 100% 100%;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.h1{
+    color: white;
+    font-size: 100px;
+    padding-top: 100px;
+}
+.backgroundimg{
+    height: 400px;
+    width: 90%;
+    margin: 10px auto;
+    background-color: pink;
+    background-image: url(blog3.jpeg);
+    background-size: 100% 100%;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.div1{
+    float: left;
+    width: 65%;
+    background-color: white;
+    margin: 10px 10px;
+    border-radius:10px ;
+}
+.div2{
+    float: right;
+    width: 30%;
+    background-color: white;
+    margin: 5px 10px;
+    border-radius:10px ;
+}
+.img1{
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+    width: 50%;
+}
+.p1{
+    width: 40%;
+    float: right;
 }
