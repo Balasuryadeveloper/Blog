@@ -1,13 +1,6 @@
 body{
-    font-family: 'Lobster';
-    background-color: gainsboro;
-}
-.column{
-    height: 350px;
-    background-image: url(41.jpg);
-    background-size: 100% 100%;
-    border-bottom-left-radius: 50px;
-    border-top-right-radius: 50px;
+    background-color: gray;
+    background-image: url(new.jpg);
 }
 .h1{
     color: white;
@@ -16,20 +9,24 @@ body{
 }
 .backgroundimg{
     height: 400px;
-    width: 90%;
+    width: 80%;
     margin: 10px auto;
     background-color: pink;
-    background-image: url(blog3.jpeg);
+    background-image: url(blog1.jpg);
     background-size: 100% 100%;
     border-bottom-left-radius: 50px;
     border-top-right-radius: 50px;
+    box-shadow: 10px 10px black;
+    
 }
 .div1{
     float: left;
     width: 65%;
-    background-color: white;
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
     margin: 10px 10px;
     border-radius:10px ;
+    box-shadow: 10px 10px black;
 }
 .div2{
     float: right;
@@ -37,14 +34,25 @@ body{
     background-color: white;
     margin: 5px 10px;
     border-radius:10px ;
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
+    box-shadow: 10px 10px black;
 }
 .img1{
     float: left;
-    border-radius: 10px;
-    margin: 10px;
-    width: 50%;
+    width: 35%;
 }
 .p1{
-    width: 40%;
+    width: 60%;
     float: right;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+.btn-group{
+  width: 75%;
+}
+.navbar{
+    background-image: url(nav.jpg);
+    background-size: 100% 100%;
+    box-shadow:10px 10px black;
 }
