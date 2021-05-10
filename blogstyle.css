@@ -56,3 +56,11 @@ body{
     background-size: 100% 100%;
     box-shadow:10px 10px black;
 }
+.navb{
+    background-image: url(nav.jpg);
+    background-size: 100% 100%;
+    box-shadow:10px 10px black;
+}
+.n:hover{
+    background-color: green;
+}
