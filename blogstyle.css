@@ -1,6 +1,7 @@
 body{
     background-color: gray;
     background-image: url(new.jpg);
+    font-family: "Lobster";
 }
 .h1{
     color: white;
@@ -63,4 +64,22 @@ body{
 }
 .n:hover{
     background-color: green;
+}
+.as{
+    color: orange;
+    float: left;
+    width: 100%;
+}
+.tab {
+    width: 80%;
+    margin: 10px auto;
+}
+.footer{
+    width: 1358px;
+    background-image: url(nav.jpg);
+    background-size: 100% 100%;
+}
+.btn-1{
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
 }
